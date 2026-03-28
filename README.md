@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **----> Open source <----**
 - 👨‍💻 All of my projects are available on [HarshitGupta](https://github.com/Harshitgupta008?tab=repositories)
-- 👨‍💻 Official github-Account [HarshitGupta](https://github.com/https://github.com/harshitgupta0032)
+- 👨‍💻 Official github-Account [HarshitGupta](https://github.com/harshitgupta0032)
 - 🌱 I’m currently learning **Data Structures and Algorithms with JAVA**
 - 💬 Ask me about **Java, MERN**
 <br>
